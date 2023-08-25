@@ -70,7 +70,7 @@ public class Pokemon {
 
     @Override
     public String toString() {
-        return "Bonjour, je m'appelle " + this.prenom + " et je possède " + this.capacites.size() + " capacités" ;
+        return "Bonjour, je m'appelle pas" + this.prenom + " et je possède " + this.capacites.size() + " capacités" ;
     }
 
 
